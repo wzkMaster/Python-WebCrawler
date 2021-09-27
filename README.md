@@ -1,6 +1,4 @@
 # Python-WebCrawler
-Python网络爬虫之牛客网面经数据抓取
-
 用到的第三方库：
 requests, bs4, pandas
 
