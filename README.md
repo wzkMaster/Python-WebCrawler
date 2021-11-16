@@ -2,6 +2,8 @@
 用到的第三方库：
 requests, bs4, pandas
 
+仅包含了字节跳动一个公司的面经
+
 csv文件字段说明：
 title 标题
 text 正文
@@ -10,5 +12,3 @@ date 发表日期
 comment 回复数
 like 点赞数
 read 浏览量
-
-因为数据有点多，所以打开可能比较慢。
